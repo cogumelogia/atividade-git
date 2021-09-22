@@ -7,3 +7,7 @@ a. touch .gitignore - criando arquivo .gitignore
 b. git add .gitignore - adicionando arquivo .gitignore no repositório
 c. git commit -m "versão inicial do projeto" - aceitando a adição e comentando o início do projeto
 
+2. Criando nova branch para mudanças
+comandos:
+a. git checkout -b nova-branch - criando uma nova branch para fazer mais alterações concomintantes antes de atualizar tronco (master)
+
