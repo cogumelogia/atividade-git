@@ -11,3 +11,9 @@ c. git commit -m "versão inicial do projeto" - aceitando a adição e comentand
 comandos:
 a. git checkout -b nova-branch - criando uma nova branch para fazer mais alterações concomintantes antes de atualizar tronco (master)
 
+3. Merge de trabalhos em branchs simultâneas
+comandos:
+a. git merge [nome da branch];
+b. aviso de conflitos no tronco (master);
+c. git mergetool - resolvendo conflitos utilizando o programa gráfico meld.exe (https://sourceforge.net/projects/meld-installer/);
+d. git pull -u origin merge-trabalhos.
