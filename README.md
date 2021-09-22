@@ -17,3 +17,9 @@ a. git merge [nome da branch];
 b. aviso de conflitos no tronco (master);
 c. git mergetool - resolvendo conflitos utilizando o programa gráfico meld.exe (https://sourceforge.net/projects/meld-installer/);
 d. compare & pull request em Github.com.
+
+4. Criando tag de versão
+comandos:
+a. git tag -a v1.0 -m "primeira versão";
+b. git tag - para conferir versão criada no repositório local;
+c. git push origin --tags - para inserir tag criada ao repositório remoto.
