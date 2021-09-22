@@ -16,4 +16,4 @@ comandos:
 a. git merge [nome da branch];
 b. aviso de conflitos no tronco (master);
 c. git mergetool - resolvendo conflitos utilizando o programa gráfico meld.exe (https://sourceforge.net/projects/meld-installer/);
-d. git pull -u origin merge-trabalhos.
+d. compare & pull request em Github.com.
